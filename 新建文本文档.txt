@@ -1,0 +1,9 @@
+使用方法：
+https://segmentfault.com/a/1190000011909294
+
+首先注册账号，然后建网上github库  本地建库，下载工具gitbrash  
+ssh设置
+找到目录   git status看状态，
+git add .(所有或者文件名)
+
+git push origin 提交就ok
